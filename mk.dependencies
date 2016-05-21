@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_vendor_htc_e8-common",
+    "target_path": "vendor/htc/e8-common"
+  },
+  {
+    "repository": "android_device_htc_e8-msm8974-common",
+    "target_path": "device/htc/e8-msm8974-common"
+  }
+]
